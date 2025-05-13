@@ -11,7 +11,7 @@ Two alarms that represent the same time should be equal to each other.
 You can run all the tests by entering the following in your terminal:
 
 ```sh
-$ gradle test
+$ ./gradlew test
 ```
 
 ### Evaluation Criteria
