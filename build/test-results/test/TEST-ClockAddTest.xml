@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ClockAddTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-05-13T19:40:35" hostname="irfan-ThinkPad-W541" time="0.016">
+<testsuite name="ClockAddTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-05-15T20:35:30" hostname="irfan-ThinkPad-W541" time="0.017">
   <properties/>
-  <testcase name="subtractMoreThanAnHour" classname="ClockAddTest" time="0.012"/>
-  <testcase name="subtractMoreThanTwoHoursWithBorrow" classname="ClockAddTest" time="0.001"/>
+  <testcase name="subtractMoreThanAnHour" classname="ClockAddTest" time="0.014"/>
+  <testcase name="subtractMoreThanTwoHoursWithBorrow" classname="ClockAddTest" time="0.0"/>
   <testcase name="addMoreThanTwoHoursWithCarry" classname="ClockAddTest" time="0.0"/>
   <testcase name="subtractAcrossMidnight" classname="ClockAddTest" time="0.0"/>
   <testcase name="subtractMoreThanOneDay" classname="ClockAddTest" time="0.0"/>
@@ -12,7 +12,7 @@
   <testcase name="addMoreThanOneHour" classname="ClockAddTest" time="0.0"/>
   <testcase name="addAcrossMidnight" classname="ClockAddTest" time="0.0"/>
   <testcase name="addToNextHour" classname="ClockAddTest" time="0.0"/>
-  <testcase name="addMoreThanOneDay" classname="ClockAddTest" time="0.001"/>
+  <testcase name="addMoreThanOneDay" classname="ClockAddTest" time="0.0"/>
   <testcase name="addNoMinutes" classname="ClockAddTest" time="0.0"/>
   <testcase name="subtractMoreThanTwoDays" classname="ClockAddTest" time="0.0"/>
   <testcase name="addMoreThanTwoDays" classname="ClockAddTest" time="0.0"/>
